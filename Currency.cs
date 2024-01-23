@@ -10,7 +10,6 @@ class Dollar : Currency
     public Dollar() : base("Dollar") { }
 }
 
-// Euro class
 class Euro : Currency
 {
     public Euro() : base("Euro") { }
