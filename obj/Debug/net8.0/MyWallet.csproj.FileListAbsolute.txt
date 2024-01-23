@@ -1,0 +1,14 @@
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\bin\Debug\net8.0\MyWallet.exe
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\bin\Debug\net8.0\MyWallet.deps.json
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\bin\Debug\net8.0\MyWallet.runtimeconfig.json
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\bin\Debug\net8.0\MyWallet.dll
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\bin\Debug\net8.0\MyWallet.pdb
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\obj\Debug\net8.0\MyWallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\obj\Debug\net8.0\MyWallet.AssemblyInfoInputs.cache
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\obj\Debug\net8.0\MyWallet.AssemblyInfo.cs
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\obj\Debug\net8.0\MyWallet.csproj.CoreCompileInputs.cache
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\obj\Debug\net8.0\MyWallet.dll
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\obj\Debug\net8.0\refint\MyWallet.dll
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\obj\Debug\net8.0\MyWallet.pdb
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\obj\Debug\net8.0\MyWallet.genruntimeconfig.cache
+C:\Users\marvi\OneDrive\Documentos\Marcus\Dev\Projetos\exerc1-back\MyWallet\obj\Debug\net8.0\ref\MyWallet.dll
